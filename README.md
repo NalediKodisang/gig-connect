@@ -1,16 +1,64 @@
-# gig_connect
+📱 Gig Connect
 
-A new Flutter project.
+Gig Connect is a community-focused mobile application designed to connect unemployed youth with local gig opportunities.  
+Built using **Flutter** and **Firebase**, the app focuses on simplicity, accessibility, and empowering communities through micro-job opportunities.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+ 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+## 🔹 User Authentication
+- Firebase Email/Password login & registration  
+- Secure user management  
+- Persistent login
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🔹 Gig Browsing
+- View available gigs in your area  
+- Filter gigs by category  
+- Clean, responsive UI design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🔹 Posting Gigs
+- Users can create and publish gig listings  
+- Upload details such as:  
+  - Title  
+  - Description  
+  - Budget  
+  - Location
+
+### 🔹 Real-Time Database
+- Gigs update instantly using Firebase Firestore  
+- Seamless syncing across devices
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**  
+- Flutter (Dart)  
+- Material UI Widgets  
+- Responsive Layouts  
+
+**Backend & Database:**  
+- Firebase Authentication  
+- Firebase Firestore  
+- Firebase Storage (optional)
+
+**Tools:**  
+- VS Code  
+- Android Studio  
+- Git & GitHub  
+- Flutter DevTools  
+
+---
+
+## 📸 Screenshots
+_(To be added soon — updating visuals for a better presentation)_  
+
+You can upload them later inside a folder named:  
+`/screenshots`
+
+---
+
+## 📦 Project Setup
+
+### 1. Clone the repository:
