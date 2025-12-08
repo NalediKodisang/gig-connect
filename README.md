@@ -54,8 +54,6 @@ Built using **Flutter** and **Firebase**, the app focuses on simplicity, accessi
 ## 📸 Screenshots
 _(To be added soon — updating visuals for a better presentation)_  
 
-You can upload them later inside a folder named:  
-`/screenshots`
 
 ---
 
