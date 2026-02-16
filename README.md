@@ -40,3 +40,11 @@ To run this project locally:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/NalediKodisang/gig-connect.git
+
+   📱 Screenshots
+(Coming soon! App screenshots will be added as development progresses)
+
+📬 Contact
+Naledi Kodisang - LinkedIn
+
+Project Link: https://github.com/NalediKodisang/gig-connect
