@@ -41,6 +41,8 @@ To run this project locally:
    ```bash
    git clone https://github.com/NalediKodisang/gig-connect.git
 
+
+
    📱 Screenshots
 (Coming soon! App screenshots will be added as development progresses)
 
