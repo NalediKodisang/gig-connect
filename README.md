@@ -43,7 +43,7 @@ To run this project locally:
 
 
 
-   📱 Screenshots
+📱 Screenshots
 (Coming soon! App screenshots will be added as development progresses)
 
 📬 Contact
