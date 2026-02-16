@@ -1,62 +1,42 @@
-📱 Gig Connect
+# 🤝 GIG Connect
 
-Gig Connect is a community-focused mobile application designed to connect unemployed youth with local gig opportunities.  
-Built using **Flutter** and **Firebase**, the app focuses on simplicity, accessibility, and empowering communities through micro-job opportunities.
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 
----
+A community gig marketplace mobile app built with Flutter, designed to connect people with local opportunities.
 
- 🚀 Features
+## 🎯 About The Project
 
-## 🔹 User Authentication
-- Firebase Email/Password login & registration  
-- Secure user management  
-- Persistent login
+GIG Connect aims to address youth unemployment by creating a platform where:
+- **Job seekers** can find local gig opportunities
+- **Community members** can post small jobs or tasks
+- **Local businesses** can find temporary help
 
-### 🔹 Gig Browsing
-- View available gigs in your area  
-- Filter gigs by category  
-- Clean, responsive UI design
+## ✨ Current Features
 
-### 🔹 Posting Gigs
-- Users can create and publish gig listings  
-- Upload details such as:  
-  - Title  
-  - Description  
-  - Budget  
-  - Location
+- Flutter mobile application structure
+- Clean, modern UI design
+- Navigation between screens
+- Basic app architecture set up
 
-### 🔹 Real-Time Database
-- Gigs update instantly using Firebase Firestore  
-- Seamless syncing across devices
+## 🛠️ Built With
 
----
+- **Flutter** - UI framework for cross-platform development
+- **Dart** - Programming language
 
-## 🛠 Tech Stack
+## 🚧 In Development
 
-**Frontend:**  
-- Flutter (Dart)  
-- Material UI Widgets  
-- Responsive Layouts  
+This project is actively being developed! Coming soon:
+- 🔥 Firebase integration for backend services
+- 🔐 User authentication
+- 📱 Real-time messaging
+- 💼 Job posting and browsing
+- ⭐ Rating system
 
-**Backend & Database:**  
-- Firebase Authentication  
-- Firebase Firestore  
-- Firebase Storage (optional)
+## 🚀 Getting Started
 
-**Tools:**  
-- VS Code  
-- Android Studio  
-- Git & GitHub  
-- Flutter DevTools  
+To run this project locally:
 
----
-
-## 📸 Screenshots
-_(To be added soon — updating visuals for a better presentation)_  
-
-
----
-
-## 📦 Project Setup
-
-### 1. Clone the repository:
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/NalediKodisang/gig-connect.git
